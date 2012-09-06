@@ -1,4 +1,4 @@
-package wanmei.mina.handler;
+package pf.mina.handler;
 
 import java.util.Map;
 
