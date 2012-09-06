@@ -7,7 +7,7 @@ import outpost.search.Hits;
 /**
  * An abstract local-index searcher class
  * 
- * @author David
+ * @author liufukun
  *
  */
 public abstract class LocalIndexSearcher {
