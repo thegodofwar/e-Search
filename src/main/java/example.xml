@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<kv_server>
+	<kv_group type="email">
+		<kv ip="10.3.254.79" kv_id="1" port="50001" con_type="long" con_min="1" con_max="10" />
+		<kv ip="10.3.254.79" kv_id="2" port="50002" con_type="long" con_min="1" con_max="5" />
+		<kv ip="10.3.254.79" kv_id="3" port="50011" con_type="long" con_min="3" con_max="5" />
+		<kv ip="10.3.254.79" kv_id="4" port="50012" con_type="short" con_min="3" con_max="5"/>
+	</kv_group>
+</kv_server>
