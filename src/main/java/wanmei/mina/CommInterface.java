@@ -1,4 +1,4 @@
-package wanmei.mina;
+package pf.mina;
 
 import java.io.UnsupportedEncodingException;
 import org.apache.mina.common.ByteBuffer;
