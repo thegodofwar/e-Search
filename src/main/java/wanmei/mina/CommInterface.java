@@ -30,7 +30,7 @@ import outpost.service.DataBuffer;
  *   <version(int)>
  *   <ttl(int)>
  * 
- * @author David
+ * @author liufukun
  *
  */
 public class CommInterface {
