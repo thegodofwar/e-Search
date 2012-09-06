@@ -1,4 +1,4 @@
-package wanmei.mina;
+package pf.mina;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -41,7 +41,7 @@ import toolbox.misc.collection.IntPriorityQueue.IntComparator;
  *   <count(vint)>
  *   <hit(Hit)> ... <hit(Hit)>
  * 
- * @author David
+ * @author liufukun
  *
  */
 public abstract class IndexSearchHandlerAdapters {
